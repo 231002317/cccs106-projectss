@@ -1,0 +1,18 @@
+{
+    "python.defaultInterpreterPath": "./cccs106_env_ibarrientos/Scripts/python.exe",
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 14,
+    "python-envs.pythonProjects": [
+        {
+            "path": "",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
+
+          
