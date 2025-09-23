@@ -49,18 +49,22 @@
 
 ## Challenges and Solutions
 
-[- Git push failed (no sign‑in)
+[
+- Git push failed (no sign‑in)
   - Signed in via browser using Git Credential Manager, then push succeeded.
 - Flet layout looked cramped
   - Used `Column`/`Row` with spacing and padding; called `page.update()`.
 - Input validation needed
-  - Added simple checks and showed a `SnackBar` message.]
+  - Added simple checks and showed a `SnackBar` message.
+]
 
 ## Learning Outcomes
 
-[- Initialize a repo, make commits, and push to GitHub.
+[
+- Initialize a repo, make commits, and push to GitHub.
 - Build a small Flet UI with text fields, buttons, and dialogs.
-- Write event handlers and validate user input.]
+- Write event handlers and validate user input.
+]
 
 ## Screenshots
 
