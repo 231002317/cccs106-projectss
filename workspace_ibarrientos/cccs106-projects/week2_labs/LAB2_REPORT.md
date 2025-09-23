@@ -3,14 +3,14 @@
 **Student Name:** [Jenny Ibarrientos]
 **Student ID:** [231002317]
 **Section:** [3B]
-**Date:** [Submission Date]
+**Date:** 2025-09-23
 
 ## Git Configuration
 
 ### Repository Setup
 - **GitHub Repository:** https://github.com/231002317/cccs106-projectss
 - **Local Repository:**  Initialized and connected
-- **Commit History:** [Number] commits with descriptive messages
+- **Commit History:** 4 commits with descriptive messages
 
 ### Git Skills Demonstrated
 -  Repository initialization and configuration
