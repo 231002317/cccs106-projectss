@@ -114,10 +114,10 @@ def main(page: ft.Page):
             show_error(f"An error occurred: {str(ex)}")
     
     def clear_form(e):
-        first_name.value = ""
-        last_name.value = ""
-        age.value = ""
-        student_id.value = ""
+        first_name.value = "Jenny"
+        last_name.value = "Ibarrientos"
+        age.value = "21"
+        student_id.value = "231002317"
         program_dropdown.value = None
         year_level.value = None
         favorite_color.value = None
