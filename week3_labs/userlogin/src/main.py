@@ -5,7 +5,7 @@ from db_connection import connect_db
 
 def main(page: ft.Page) -> None:
     # Page configuration
-    page.title = "User Login"
+    page.title = "Ibarrientos Task Tracker"
     page.window_center()
     page.window_frameless = True
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
@@ -16,7 +16,7 @@ def main(page: ft.Page) -> None:
 
     # UI controls
     title_text = ft.Text(
-        value="User Login",
+        value="Ibarrientos Task Tracker",
         size=20,
         weight=ft.FontWeight.BOLD,
         font_family="Arial",
